@@ -1,10 +1,13 @@
-# 👾 0xFARE  --- --- Halo semua  / hello everyone
+# 👾 0xFARE — Halo semua / Hello everyone
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/b84ac810fcaf01e49de74667fbae9ccc4705c0b70dd82643d782d9ae7961ecb7/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a6d4d355a577732636e687965486833634770774e486f325a335a355a6a4e7461574531596d783659336471626d74714d32357464535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f62414637356379387077575977506950536a2f67697068792e676966" width="400" />
 </p>
 
-</p>
+---
+
+### 🔧 Tools & OS
+
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Hacking-blue?logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web-orange?logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 [![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-red?logo=mikrotik&logoColor=white)](https://mikrotik.com/)
@@ -15,8 +18,9 @@
 
 ---
 
-🛠️ **Network Engineering | Pentester Jr. | CTF Maker & Player | Junior Cyber Security**  
-🔗 *base 64 encode and decode *
+### 🛠️ Network Engineering | Pentester Jr. | CTF Maker & Player | Junior Cyber Security  
+🔗 *SQLI enthusiast*
+🔗 *Mikrotik  enthusiast*
 
 ---
 
@@ -30,17 +34,17 @@ Saya aktif di dunia **cybersecurity**, fokus pada:
 ---
 
 ## 🚧 Fokus Saat Ini
-- 💣 Belajar eksploitasi lanjut: SQLI, LFI, XSS,
+- 💣 Belajar eksploitasi lanjut: SQLi, LFI, XSS
 - ⚔️ Membuat soal CTF internal dan publik
-- 🧰 Tools favorit: Kali Linux, Burp Suite, Wireshark, Mikrotik, 
+- 🧰 Tools favorit: Kali Linux, Burp Suite,Nmap, MikroTik
 
 ---
 
 ## 📫 Kontak Saya
 - 📧 Email: [ahmadfarel272@gmail.com](mailto:ahmadfarel272@gmail.com)
-- 📸 Instagram: [@instagramkamu](https://www.instagram.com/farelaja231/)
-- 🌐 Blog/Write-up: [yourblog.com](https://medium.com/@ahmadfarel272)
+- 📸 Instagram: [@farelaja231](https://www.instagram.com/farelaja231/)
+- 🌐 Blog/Write-up: [medium.com](https://medium.com/@ahmadfarel272)
 
 ---
 
-> _"Stay stealthy. Stay curious. Stay sharp."_ 🐚
+> _"stay cautious with the cyber world and goodbye"_ 🐚
